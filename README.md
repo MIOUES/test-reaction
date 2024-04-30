@@ -1,4 +1,5 @@
 # test-reaction
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+测试你的反应力
+>>>>>>> 4c9f02fe076eadc894f013106f608fa3424aa3d4
