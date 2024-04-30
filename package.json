@@ -7,7 +7,11 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
-    "vue": "^2.7.7"
+    "echarts": "^5.5.0",
+    "element-ui": "^2.15.14",
+    "sass": "^1.75.0",
+    "vue": "^2.7.7",
+    "vue-echarts": "^6.7.1"
   },
   "devDependencies": {
     "@vitejs/plugin-legacy": "^2.0.0",
